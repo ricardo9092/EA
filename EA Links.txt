@@ -1,0 +1,4 @@
+https://developers.themoviedb.org/3/tv-seasons
+https://www.themoviedb.org/documentation/api/status-codes
+https://image.tmdb.org/t/p/w300_and_h450_bestv2/6VFK2lPfw4uV6sfjDLnOe8aptPN.jpg
+https://api.themoviedb.org/3/tv/57243?api_key=29a3599e75cc9f95557283c10f79d4e4&language=en-US
