@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="com.sun.jersey.samples:jsonp:1.18.1" type="repository">
+    <properties maven-id="com.sun.jersey.samples:jsonp:1.18.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsonp-1.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-json-1.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-impl-2.2.3-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax-api-1.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-core-1.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-grizzly2-1.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-http-2.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-framework-2.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-http-server-2.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grizzly-rcm-2.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-server-1.18.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
